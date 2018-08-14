@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.gzzy</groupId>
-	<artifactId>studyarea</artifactId>
+	<artifactId>FoodManProgram-Api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>studyarea</name>
+	<name>FoodManProgram-Api</name>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
